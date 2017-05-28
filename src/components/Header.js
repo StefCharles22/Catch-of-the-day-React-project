@@ -9,8 +9,8 @@ import React from 'react';
           <span className="ofthe">
             <span className="of"> of </span>
             <span className="the"> the </span>
+            Day
           </span>
-          Day
        </h1>
        <h3 className="tagline"><span> {props.tagline}</span></h3>
       </header>
